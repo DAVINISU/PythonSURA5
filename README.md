@@ -1,1 +1,3 @@
-# PythonSURA5
+# PythonsuraA5
+### realizado por David Nieto Suarez
+cliclos y listas
